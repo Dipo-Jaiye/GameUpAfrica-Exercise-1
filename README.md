@@ -17,5 +17,7 @@ Use the skills you learned in the driving simulation to fly a plane around obsta
 4. Bonus challenge 1: The plane propeller spins
 
 ## Solution folder
-[Challenge 1](Assets/Challenge%201)
-[Video Link]()
+[Challenge 1](Assets/Challenge%201)  
+
+# Gameplay
+[Video Link](https://drive.google.com/file/d/14U4YWKzefTWp1oiGPzch5mGa6CfFWvQE/view?usp=sharing)
